@@ -1,5 +1,5 @@
 # AOE - CURRENT MATCH SCRIPT
-This code fetches information about the most recent Age of Empires 2 match played by a specific profile and summarizes it. 
+This code fetches information about the most recent Age of Empires 2 match played by a specific profile and summarizes it, giving also the specific civs bonuses.
 
     **Functions:**
         get_civilization_descriptions(file_path): This function reads a JSON file containing civilization information (likely names and descriptions) and returns a dictionary where the key is the civilization name and the value is its description.
